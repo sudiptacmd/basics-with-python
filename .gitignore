@@ -1,0 +1,14 @@
+*.pdf
+.env
+.vscode/
+myenv/
+venv/
+
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg
+*.so
+.DS_Store
