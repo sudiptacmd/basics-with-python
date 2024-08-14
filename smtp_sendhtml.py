@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 sender = "amionekshadhu@outlook.com"
-receiver = "technet.sudipta@gmail.com"
+receiver = "pragga.frc@gmail.com"
 password = os.environ['SMTPASS']
 
 message = MIMEMultipart()
